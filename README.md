@@ -13,7 +13,8 @@ Binary classification of documents into computer related and not computer relate
 F1 Score which is a good measure of both precision and recall.
 
 <h3>Results</h3>
-All statistics are related to validating the model on test data
+All statistics are related to validating the model on test data.
+
 
 <b>Bag of Words Representation</b>
 

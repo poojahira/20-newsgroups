@@ -15,8 +15,7 @@ F1 Score which is a good measure of both precision and recall.
 <h3>Results</h3>
 All statistics are related to validating the model on test data.
 
-
-<b>Bag of Words Representation</b>
+<h4>Bag of Words Representation</h4>
 
 Support Vector Machine Classification
 F1 Score = 0.732076473712
@@ -28,7 +27,7 @@ Naive Bayes Classification
 F1 Score = 0.730217737653
 
 
-<b>TF-IDF Representation</b>
+<h4>TF-IDF Representation</h4>
 
 Support Vector Machine Classification
 F1 Score = 0.92843866171
@@ -40,7 +39,7 @@ Naive Bayes Classification
 F1 Score = 0.904275092937
 
 
-<b>Word2Vec Representation</b>
+<h4>Word2Vec Representation</h4>
 
 Support Vector Machine Classification
 F1 Score = 0.488449283059
